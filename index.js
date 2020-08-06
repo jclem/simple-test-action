@@ -1,1 +1,1 @@
-console.log('Hello, world.')
+console.log('::set-output name=source::commit')
