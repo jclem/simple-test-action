@@ -1,0 +1,5 @@
+name: A simple test action
+description: Prints a simple message to the console
+runs:
+  using: node12
+  main: index.js
